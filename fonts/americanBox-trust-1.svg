@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="182.992px" height="203.99px" viewBox="0 0 182.992 203.99" enable-background="new 0 0 182.992 203.99"
+	 xml:space="preserve">
+<g>
+	<path fill="#244276" d="M53.559,80.407h75.722c13.069,0,23.663,9.756,23.663,22.824c0,11.209-7.801,20.153-18.263,22.6
+		c-1.889,4.33-4.723,10.395-6.9,14.195c-3.572,6.238-7.357,1.07-7.357,1.07l-5.057-12.689H53.559c-13.069,0-23.663-10.932-23.663-24
+		S40.49,80.407,53.559,80.407z"/>
+	<text transform="matrix(1 0 0 1 52.1211 108.332)" fill="#FFFFFF" font-family="'Avenir-Black'" font-size="21.1252">reviews</text>
+	<g>
+		<circle fill="#32579C" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" cx="77.449" cy="68.491" r="19.158"/>
+		<circle fill="#4C74A5" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" cx="106.613" cy="68.491" r="19.158"/>
+		<path fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M100.609,75.639c0,0,6.005,6.004,12.01,0"/>
+		<path fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M71.444,75.639c0,0,6.005,6.004,12.011,0"/>
+		
+			<circle fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="72.398" cy="64.965" r="0.763"/>
+		
+			<circle fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="82.691" cy="64.965" r="0.763"/>
+		
+			<circle fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="101.562" cy="64.965" r="0.762"/>
+		
+			<circle fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="111.856" cy="64.965" r="0.762"/>
+	</g>
+	<g>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="41.077" y="177.576" width="100.838" height="14.632">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="41.077" y="177.576" width="100.838" height="14.632" id="SVGID_2_">
+			<g filter="url(#Adobe_OpacityMaskFilter)">
+				
+					<image overflow="visible" enable-background="new    " width="106" height="19" xlink:href="A689587388277676.jpg"  transform="matrix(1 0 0 1 38.4126 175.4062)">
+				</image>
+			</g>
+		</mask>
+		<g mask="url(#SVGID_2_)">
+			<ellipse fill="#244276" cx="91.496" cy="184.892" rx="50.419" ry="7.316"/>
+		</g>
+	</g>
+</g>
+</svg>
